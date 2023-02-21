@@ -1,4 +1,4 @@
-# flutter_random_app
+# flutter_wallet_app
 
 A new Flutter project.
 
