@@ -10,10 +10,10 @@ class ProfilePage extends StatelessWidget {
         children: [
           const SizedBox(height: 10),
           //AppBar
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 25.0),
+          const Padding(
+            padding: EdgeInsets.symmetric(horizontal: 25.0),
             child: Row(
-              children: const [
+              children: [
                 Text(
                   "Account",
                   style: TextStyle(

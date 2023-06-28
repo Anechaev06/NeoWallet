@@ -6,15 +6,15 @@ class SettingsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
+    return const SafeArea(
       child: Column(
         children: [
-          const SizedBox(height: 10),
+          SizedBox(height: 10),
           //AppBar
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 25.0),
+            padding: EdgeInsets.symmetric(horizontal: 25.0),
             child: Row(
-              children: const [
+              children: [
                 Text(
                   "Settings",
                   style: TextStyle(
@@ -26,12 +26,12 @@ class SettingsPage extends StatelessWidget {
             ),
           ),
 
-          const SizedBox(height: 20),
+          SizedBox(height: 20),
 
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 25.0),
+            padding: EdgeInsets.symmetric(horizontal: 25.0),
             child: Column(
-              children: const [
+              children: [
                 MyListTile(
                   icon: Icon(
                     Icons.notifications,
