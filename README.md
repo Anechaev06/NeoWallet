@@ -12,6 +12,6 @@
 - Digital Receipts: Easily access and manage digital receipts for your purchases.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 21 57 55](https://github.com/Anechaev06/wallet_app/assets/57583912/af9349ca-e9b9-4b2b-8f38-de39f8f6ff94)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 21 57 31](https://github.com/Anechaev06/wallet_app/assets/57583912/f81de95e-b7be-43ad-8c6f-d38007e09c42)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 21 57 59](https://github.com/Anechaev06/wallet_app/assets/57583912/c6e65ede-3d84-4610-8fce-5245d98c6580)
+![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 22 21 55](https://github.com/Anechaev06/wallet_app/assets/57583912/519bb176-ed7a-4ca4-948c-686ba7ac4929)
+![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 22 22 36](https://github.com/Anechaev06/wallet_app/assets/57583912/b01163f0-beeb-4934-95c3-a083c1203ccf)
+![Simulator Screenshot - iPhone 14 Pro - 2023-06-28 at 22 22 43](https://github.com/Anechaev06/wallet_app/assets/57583912/aa53beaf-ab2b-45fb-be4d-49cd2c0ea383)
