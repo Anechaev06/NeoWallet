@@ -1,5 +1,5 @@
-# Flutter Wallet App
-**Welcome to the Flutter Wallet App repository! This mobile application is built using the Flutter framework and serves as a digital wallet solution for managing your finances on the go. With this app, you can securely store your payment methods, track transactions, and perform various financial activities effortlessly.**
+# NeoWallet
+**NeoWallet is built using the Flutter framework and serves as a digital wallet solution for managing your finances on the go. With this app, you can securely store your payment methods, track transactions, and perform various financial activities effortlessly.**
 
 ## Features
 - Secure Login: Safely access your wallet with biometric authentication or a secure PIN code.
